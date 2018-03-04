@@ -1,3 +1,9 @@
+/*
+Author: Pruthvi Kumar BK
+Email: pruthvikumar.123@gmail.com
+Website: http://www.apricity.co.in
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';

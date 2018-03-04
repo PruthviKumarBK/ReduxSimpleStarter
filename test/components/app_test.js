@@ -1,3 +1,9 @@
+/*
+Author: Pruthvi Kumar BK
+Email: pruthvikumar.123@gmail.com
+Website: http://www.apricity.co.in
+*/
+
 import { renderComponent , expect } from '../test_helper';
 import App from '../../src/components/app';
 

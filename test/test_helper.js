@@ -1,3 +1,9 @@
+/*
+Author: Pruthvi Kumar BK
+Email: pruthvikumar.123@gmail.com
+Website: http://www.apricity.co.in
+*/
+
 import _$ from 'jquery';
 import React from 'react';
 import ReactDOM from 'react-dom';
